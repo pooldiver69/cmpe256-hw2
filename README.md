@@ -2,6 +2,8 @@
 
 This homework assignment is been done on HPC. However, I failed to train models with COCO dataset.
 
+My HPC account has been locked. These approachs I had been done are listed below. 
+
 I tried both Tensorflow2 and Pytorch, I failed in the some config and I dont know how to continue. I Google and went to piazza for helps with no luck.
 
 Small conclusion with Tensorflow2:
